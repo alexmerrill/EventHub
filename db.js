@@ -3,7 +3,7 @@ const { Pool } = require("pg");
 const pool = new Pool({
   user: "gitpod",
   host: "localhost",
-  database: "eventhub_db",
+  database: process.env.DATABASE,
   password: "",
   port: 5432,
 });

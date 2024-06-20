@@ -6,4 +6,4 @@ This is an example application where users can create and log events, configured
 
 Click the button below to start a new cloud development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-samples/EventHub)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/alexmerrill/EventHub)
